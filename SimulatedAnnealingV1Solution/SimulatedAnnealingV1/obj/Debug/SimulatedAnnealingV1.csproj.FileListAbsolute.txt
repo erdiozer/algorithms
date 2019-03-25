@@ -1,0 +1,9 @@
+c:\users\erdi\documents\visual studio 2015\Projects\SimulatedAnnealingV1Solution\SimulatedAnnealingV1\bin\Debug\SimulatedAnnealingV1.exe.config
+c:\users\erdi\documents\visual studio 2015\Projects\SimulatedAnnealingV1Solution\SimulatedAnnealingV1\bin\Debug\SimulatedAnnealingV1.exe
+c:\users\erdi\documents\visual studio 2015\Projects\SimulatedAnnealingV1Solution\SimulatedAnnealingV1\bin\Debug\SimulatedAnnealingV1.pdb
+c:\users\erdi\documents\visual studio 2015\Projects\SimulatedAnnealingV1Solution\SimulatedAnnealingV1\obj\Debug\SimulatedAnnealingV1.csprojResolveAssemblyReference.cache
+c:\users\erdi\documents\visual studio 2015\Projects\SimulatedAnnealingV1Solution\SimulatedAnnealingV1\obj\Debug\SimulatedAnnealingV1.Form1.resources
+c:\users\erdi\documents\visual studio 2015\Projects\SimulatedAnnealingV1Solution\SimulatedAnnealingV1\obj\Debug\SimulatedAnnealingV1.Properties.Resources.resources
+c:\users\erdi\documents\visual studio 2015\Projects\SimulatedAnnealingV1Solution\SimulatedAnnealingV1\obj\Debug\SimulatedAnnealingV1.csproj.GenerateResource.Cache
+c:\users\erdi\documents\visual studio 2015\Projects\SimulatedAnnealingV1Solution\SimulatedAnnealingV1\obj\Debug\SimulatedAnnealingV1.exe
+c:\users\erdi\documents\visual studio 2015\Projects\SimulatedAnnealingV1Solution\SimulatedAnnealingV1\obj\Debug\SimulatedAnnealingV1.pdb
